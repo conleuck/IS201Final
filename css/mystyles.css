@@ -1,0 +1,9 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: lightblue;}
+
+.name {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: x-large;
+}
